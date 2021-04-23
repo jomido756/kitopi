@@ -1,7 +1,7 @@
 .grid {
 	display: grid;
 	grid-gap: 30px;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h1 {
 	font-family: Maiandra GD;
@@ -43,14 +43,64 @@ body {
             position: relative;
         }
   
-        .first-txt {
+.first-txt {
             position: absolute;
             top: 17px;
             left: 50px;
         }
   
-        .second-txt {
+ second-txt {
             position: absolute;
-            bottom: 20px;
-            left: 10px;
+            top: 17px;
+            left: 50px;
+        }
+.third-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.fourth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.fifth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.sixth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.seventh-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.eighth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.ninth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.tenth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.eleventh-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+.twelth-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
         }
