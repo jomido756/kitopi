@@ -3,8 +3,11 @@
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }*/
+body {
+    font-family: Pacifico;
+}
 h1 {
-        font-family: Maiandra GD;
+        font-family: Oxygen;
         font-size: 2.5em;
         border-bottom: 2px #4daeb6;
         border-right: 2px #4daeb6;
@@ -14,6 +17,7 @@ h1 {
         color: #4daeb6;
         background-color: white;
         margin-top: 10px;
+        text-shadow: 0px 2px 7px gray;
    /*     line-height: 80%;*/
 
 
@@ -47,16 +51,18 @@ body {
         margin: 20px;
 }
 p {
+    font-family: monospace;
     color: black;
     text-align: center;
     font-size: 1.5em;
 
 }
 h3 {
+    
     color: #4daeb6;
     position: center;
     font-size: 3em;
-    text-shadow: 2px 2px 7px gray;
+    text-shadow: 0px 2.5px gray;
 }
         .gfg {
             margin: 3%;
@@ -67,6 +73,7 @@ h3 {
        /*     position: absolute;*/
       /*      bottom: -40px;
             left: 50%;*/
+            font-family: Pacifico;
             text-align: center;
                 background-color: white;
                 
@@ -82,6 +89,7 @@ h3 {
             left: 50px;*/
             text-align: center;
                 background-color: white;
+                font-family: Pacifico;
               
         }
          .gfg3 {
@@ -95,5 +103,6 @@ h3 {
             left: 50px;*/
             text-align: center;
                 background-color: white;
+                font-family: Pacifico;
               
         }
