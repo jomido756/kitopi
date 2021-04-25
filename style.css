@@ -8,12 +8,15 @@ h1 {
         font-size: 2.5em;
         border-bottom: 2px #4daeb6;
         border-right: 2px #4daeb6;
-        width: 450px;
+        width: 500px;
         text-align: center;
         box-shadow: 6px 6px 7px #4daeb6;
         color: #4daeb6;
         background-color: white;
         margin-top: 10px;
+   /*     line-height: 80%;*/
+
+
 }
 
 img {
@@ -46,12 +49,14 @@ body {
 p {
     color: black;
     text-align: center;
+    font-size: 1.5em;
 
 }
 h3 {
     color: #4daeb6;
     position: center;
     font-size: 3em;
+    text-shadow: 2px 2px 7px gray;
 }
         .gfg {
             margin: 3%;
@@ -72,6 +77,19 @@ h3 {
         }
   
         .second-txt {
+            /*position: absolute;
+            top: 17px;
+            left: 50px;*/
+            text-align: center;
+                background-color: white;
+              
+        }
+         .gfg3 {
+            margin: 3%;
+            position: relative;
+        }
+  
+        .third-txt {
             /*position: absolute;
             top: 17px;
             left: 50px;*/
