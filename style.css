@@ -42,11 +42,12 @@ img {
         display: grid;
         grid-gap: 10px;
         grid-template-columns: 1fr 1fr;
+        cursor: pointer;
 }
 img:hover {
         transform: scale(2);
         align-self: center;
-        cursor: pointer;
+        
 }
 img {
         float: center;
