@@ -79,7 +79,14 @@ h3 {
   from {color: #4daeb6;}
   to {color: white;}
 }
-
+a {
+    font-family: Oxygen;
+    font-size: 2em;
+}
+/*p {
+    font-family: arial;
+    font-size: 1.5em;*/
+}
         .gfg {
             margin: 3%;
             position: relative;
