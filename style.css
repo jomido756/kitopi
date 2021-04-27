@@ -5,7 +5,7 @@
 }*/
 body {
     font-family: Pacifico;
-            background-color: white;
+        background-color: white;
         background-image: url(data:image/png;base64,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);
         z-index: 100;
         background-position: 98% -1%;
@@ -30,19 +30,17 @@ h1 {
         line-height: 1.5
         padding: 40px;
 
-   /*     line-height: 80%;*/
-
 
 }
 
 img {
+        cursor: pointer;
         width: 350px;
         height: 400px;
         transition: all 0.5s;
         display: grid;
         grid-gap: 10px;
         grid-template-columns: 1fr 1fr;
-        cursor: pointer;
 }
 img:hover {
         transform: scale(2);
@@ -72,7 +70,16 @@ h3 {
     font-size: 2.5em;
     text-shadow: 0px 2.5px gray;
     padding: 5px;
+        animation-name: example;
+        animation-duration:0.5s;
+        animation-iteration-count: infinite;
 }
+
+@keyframes example {
+  from {color: #4daeb6;}
+  to {color: white;}
+}
+
         .gfg {
             margin: 3%;
             position: relative;
