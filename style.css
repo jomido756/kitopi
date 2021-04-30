@@ -17,6 +17,7 @@ body {
 h1 {
         font-family: Oxygen;
         font-size: 2.5em;
+    padding: 20px;
         border-bottom: 2px #4daeb6;
         border-right: 2px #4daeb6;
         width: 700px;
